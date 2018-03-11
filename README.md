@@ -1,6 +1,6 @@
 # ubuntu-install: Sets up a new linux dev box
 
-apt-get install -y curl wget terminator build-essential virtualbox-guest-additions-iso chromium-browser htop git docker
+apt-get install -y curl wget terminator build-essential virtualbox-guest-additions-iso chromium-browser htop git docker.io
 
 ## repositories
 
